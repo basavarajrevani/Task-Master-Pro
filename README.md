@@ -1,6 +1,6 @@
 # TaskMaster Pro 🚀
 
-> **Professional Task Management Solutions for Modern Teams**
+> **Professional Task Management Solutions for Modern User**
 
 A comprehensive, feature-rich task management application built with vanilla JavaScript, HTML, and CSS. TaskMaster Pro offers a complete productivity suite with an intuitive interface, powerful features, and seamless user experience.
 
@@ -292,7 +292,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🔄 Task templates
 - 🔄 Time tracking
 - 🔄 Advanced reporting
-- 🔄 Calendar view
 - 🔄 Enhanced analytics
 
 ## 🎯 Use Cases
